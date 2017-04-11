@@ -9,9 +9,9 @@ Index
 - `Results`_
 - `References`_
 
-.. |data| image:: https://github.com/ekyurdakul/COMP491/blob/master/docs/images/data.png?raw=true
-.. |database| image:: https://github.com/ekyurdakul/COMP491/blob/master/docs/images/database.png?raw=true
-.. |model| image:: https://github.com/ekyurdakul/COMP491/blob/master/docs/images/model.png?raw=true
+.. |data| image:: docs/images/data.png
+.. |database| image:: docs/images/database.png
+.. |model| image:: docs/images/model.png
 
 Design
 ------
@@ -26,7 +26,7 @@ Design
 
 Results
 -------
-Offline crawling takes about 30 minutes. The data in database is distributed as in the graph.
+Offline crawling takes about 30 minutes. Data in the database is distributed as in the graph.
 
 |data|
 
